@@ -1,0 +1,15 @@
+
+
+/* Versión movil */
+
+@media (min-width: 200px) and (max-width: 534px) {
+    .logo1 {
+        display: none;
+    }
+}
+
+@media (min-width: 761px) and (max-width: 1257px) {
+    .producto-oferta {
+        display: none;
+    }
+}
